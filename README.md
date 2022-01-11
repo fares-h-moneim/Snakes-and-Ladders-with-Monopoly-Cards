@@ -1,6 +1,6 @@
 # Snakes and Ladders with Monopoly Cards
 
-A reinterpretation of the classical game Snakes and Ladders but with a twist by adding Monopoly Cards to the game using C++ CMUgraphics Library.
+A reinterpretation of the classical game Snakes and Ladders but with a twist by adding Monopoly Cards to the game using C++, OOP, and CMUgraphics Library.
 
 
 ## Software Required to Run the Game:
