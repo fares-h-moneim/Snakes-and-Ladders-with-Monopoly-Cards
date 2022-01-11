@@ -18,7 +18,7 @@ For this project you will only need to have [Microsoft Visual Studio](https://vi
 <p>This is where you begin your adventures and play the game with 3 of your friends.</p>
 <img src="https://github.com/fares-h-moneim/Snakes-and-Ladders-with-Monopoly-Cards/blob/main/Game%20Preview/Test4.JPG"></img>
 
-##Cards Description:
+## Cards Description:
 
 <ul>
   <li>Card 1: Decrements the value of the passing player’s wallet by a value specified when creating the grid.</li>
