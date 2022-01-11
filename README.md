@@ -20,16 +20,16 @@ For this project you will only need to have [Microsoft Visual Studio](https://vi
 
 ##Cards Description:
 
-<ol>
-  <li>Card 1: </li>
-  <li>Card 2: </li>
-  <li>Card 3: </li>
-  <li>Card 4: </li>
-  <li>Card 5: </li>
-  <li>Card 6: </li>
-  <li>Card 7: </li>
-  <li>Card 8: </li>
-  <li>Cards 9 to 11: </li>
-  <li>Card 12: </li>
-</ol>
+<ul>
+  <li>Card 1: Decrements the value of the passing player’s wallet by a value specified when creating the grid.</li>
+  <li>Card 2: Moves the player forward to the start of the next ladder in the grid.</li>
+  <li>Card 3: Gives the player an extra dice roll.</li>
+  <li>Card 4: Prevents the player from rolling the next turn.</li>
+  <li>Card 5: Moves the player backward with the same number of steps that he just rolled.</li>
+  <li>Card 6: Instructs the player to go to a specific cell.</li>
+  <li>Card 7: Restarts the game for the first player whose cell is after the current player in the grid.</li>
+  <li>Card 8: Prison Card (Prevents the player from rolling the dice for 3 turns)</li>
+  <li>Cards 9 to 11: Property Cards</li>
+  <li>Card 12: This card moves the ownership of the most expensive station that the current user owns from the current user to the player that has the least amount of coins in his wallet.</li>
+</ul>
 
